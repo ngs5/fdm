@@ -1,2 +1,2 @@
 # fdm
-Repository for initial code behind OpenNFT's motion monitoring add-on (afterwards renamed to real-time quality assessment module).
+Repository for initial code preceding OpenNFT's motion monitoring add-on (now renamed to real-time quality assessment module).
